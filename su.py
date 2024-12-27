@@ -1,0 +1,1 @@
+print("suwiti sud loir")
