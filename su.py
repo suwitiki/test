@@ -1,1 +1,1 @@
-print("suwiti sud loir")
+print("suwiti sud loir= ")
